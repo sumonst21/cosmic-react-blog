@@ -54,7 +54,7 @@
     "babel-plugin-inline-dotenv": "^1.1.2",
     "babel-plugin-inline-react-svg": "^0.5.2",
     "babel-plugin-transform-inline-environment-variables": "^0.4.3",
-    "css-loader": "^0.28.11",
+    "css-loader": "^6.7.2",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "enzyme-to-json": "^3.3.4",
